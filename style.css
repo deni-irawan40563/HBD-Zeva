@@ -188,7 +188,7 @@ body {
 }
 
 .cards #overview .right {
-  background: url(https://webdevtrick.com/wp-content/uploads/profile.jpg) no-repeat bottom right;
+  background: url() no-repeat bottom right;
   background-size: contain;
 }
 
